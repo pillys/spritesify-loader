@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "pillys@163.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pillys/spritesify-loader/issues"
+  },
+  "dependencies": {
+    "spritesify": "^0.3.0"
+  },
+  "description": "spritesify loader for webpack",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/pillys/spritesify-loader",
+  "keywords": [
+    "spritesify",
+    "loader",
+    "webpack"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "spritesify-loader",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pillys/spritesify-loader.git"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "version": "1.0.0"
+}
