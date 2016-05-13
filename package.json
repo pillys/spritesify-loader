@@ -6,7 +6,8 @@
     "url": "https://github.com/pillys/spritesify-loader/issues"
   },
   "dependencies": {
-    "spritesify": "^0.3.0"
+    "loader-utils": "^0.2.14",
+    "spritesify": "^0.3.1"
   },
   "description": "spritesify loader for webpack",
   "devDependencies": {},
@@ -29,5 +30,5 @@
   "scripts": {
     "start": "node ./index.js"
   },
-  "version": "1.0.0"
+  "version": "1.2.0"
 }
