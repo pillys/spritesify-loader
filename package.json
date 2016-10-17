@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "loader-utils": "^0.2.14",
-    "spritesify": "^1.1.0"
+    "spritesify": "^1.2.0"
   },
   "description": "spritesify loader for webpack",
   "devDependencies": {},
@@ -30,5 +30,5 @@
   "scripts": {
     "start": "node ./index.js"
   },
-  "version": "2.1.0"
+  "version": "2.3.0"
 }
